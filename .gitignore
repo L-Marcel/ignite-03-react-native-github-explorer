@@ -57,3 +57,4 @@ dist/
 # Rocketseat Platform
 yarn.lock
 package-lock.json
+.yarn

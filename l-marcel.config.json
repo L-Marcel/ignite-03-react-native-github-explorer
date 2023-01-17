@@ -1,0 +1,10 @@
+{
+  "translatedDescription": "Um aplicativo que consome a API do GitHub e exibe informações de qualquer repositório público.",
+  "technologies": [
+    "React Native",
+    "Expo",
+    "Reanimated",
+    "Axios",
+    "Styled Components"
+  ]
+}
